@@ -19,13 +19,13 @@ The following functionality is also implemented:</br>
    - [Edite of news][7] with subsequent updating in the database;
 6. Created [internalization][8] in Russian and English.
 
-[1]: https://github.com/VladimirZhyzhKin1/Stock/blob/master/java-servlet-project/First%20Page.png
+[1]: https://github.com/VladimirZhyzhKin1/Stock/blob/master/java-servlet-project/First%20Page.png 
 [2]: https://i.postimg.cc/K8xXTht6/Registration.png
-[3]: https://drive.google.com/file/d/1FKjBangs75hV6HZnIyn_O8jwz2uCzJSW/view?usp=sharing
-[4]: https://drive.google.com/file/d/18QnZRH13a7_X84IBR6Rz9N5lrOD73JCM/view?usp=sharing
-[5]: https://drive.google.com/file/d/1njSQvLkwVzf0q5nvfk-_txdbOFc9vftK/view?usp=sharing
-[6]: https://drive.google.com/file/d/1nEVyTi1x_QrQN8RNxC59u6IDSgRyo9iH/view?usp=sharing
-[7]: https://drive.google.com/file/d/1N9dRidBlK93RkUa8FqEsCeQMyLk5DWSq/view?usp=sharing
+[3]: https://i.postimg.cc/DyM1xqxc/personal-account-User-page1.png
+[4]: https://i.postimg.cc/Zq51fP7j/personal-account-User.png
+[5]: https://i.postimg.cc/G2B6RL1y/personal-account-Admin.png
+[6]: https://i.postimg.cc/PqV00L0H/selected-news-Admin.png
+[7]: https://i.postimg.cc/cLmpMkmr/Edit-selected-news-Admin.png
 [8]: https://github.com/VladimirZhyzhKin1/jd2-servlet-project/blob/main/src/by/htp/les02/controller/command/impl/ChangeLocal.java
 
 ## Structure
