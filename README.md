@@ -8,7 +8,7 @@ The first page shows the latest news, which are posted in the database.</br>
 </br>
 The following functionality is also implemented:</br>
 1. [Registration Page][2] of new users on the site.
-2. User logging.
+2. Login all participants.
 3. Depending on the role, a personal account has been created for both the user([page #1][3] and [page #2][4]) and the [administrator][5].
 4. User capabilities:
    - viewing all the news on the site;
