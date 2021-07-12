@@ -62,9 +62,9 @@ The connection to the database is made using JDBC and the created [Сonnection p
 
 
 ## Link on the project
+Here Link on the project ["News Management"][15] in life.
+[15]: 
 
 
 
 
-
-[3]:(https://github.com/VladimirZhyzhKin1/jd2-servlet-project/tree/main/WebContent/WEB-INF/jsp)
