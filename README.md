@@ -20,7 +20,7 @@ The following functionality is also implemented:</br>
 6. Created [internalization][8] in Russian and English.
 
 [1]: https://github.com/VladimirZhyzhKin1/Stock/blob/master/java-servlet-project/First%20Page.png
-[2]: https://drive.google.com/file/d/1jBJBmIlYEPzkoeknwSSHWigXlPcQ1ocV/view?usp=sharing
+[2]: https://i.postimg.cc/K8xXTht6/Registration.png
 [3]: https://drive.google.com/file/d/1FKjBangs75hV6HZnIyn_O8jwz2uCzJSW/view?usp=sharing
 [4]: https://drive.google.com/file/d/18QnZRH13a7_X84IBR6Rz9N5lrOD73JCM/view?usp=sharing
 [5]: https://drive.google.com/file/d/1njSQvLkwVzf0q5nvfk-_txdbOFc9vftK/view?usp=sharing
