@@ -16,8 +16,8 @@ The following functionality is also implemented:</br>
 5. [Personal account Administrator][6] (capabilities):
    - add new news to the database;
    - remove of news from the database;
-   - [Edite of news][7] with subsequent updating in the database;
-6. Created [internalization][8] in Russian and English.
+   - [Edit of news][7] with subsequent updating in the database;
+6. Created [localization][8] in Russian and English.
 
 [1]: https://github.com/VladimirZhyzhKin1/Stock/blob/master/java-servlet-project/First%20Page.png 
 [2]: https://i.postimg.cc/K8xXTht6/Registration.png
