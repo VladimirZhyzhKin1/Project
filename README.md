@@ -1,4 +1,4 @@
-# News Manager
+# News Management
 
 ## Description
 Web project for posting / viewing news.</br>
