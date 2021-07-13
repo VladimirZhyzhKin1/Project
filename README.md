@@ -64,7 +64,7 @@ The connection to the database is made using JDBC and the created [Сonnection p
 ## Link on the project
 Here Link on the project ["News Management"][15] in life.
 
-[15]: https://drive.google.com/file/d/1N9dRidBlK93RkUa8FqEsCeQMyLk5DWSq/view?usp=sharing
+[15]: https://youtu.be/yYipezKHV3s
 
 
 
