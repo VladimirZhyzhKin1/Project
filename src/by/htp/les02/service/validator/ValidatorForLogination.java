@@ -3,8 +3,6 @@ package by.htp.les02.service.validator;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-
-//DONOT WORK!!!!I don't know how to turn on
 public class ValidatorForLogination {
 	/*
 	 * Between 2 and 25 characters long. Contain at least one lower case character.
